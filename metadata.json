@@ -1,0 +1,6 @@
+{
+  "name": "Stockholm Guide Academy",
+  "description": "أكاديمية صناعة محتوى الجولات والسفر بدليل واحترافية رائد شهاب - Stockholm Guide",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
